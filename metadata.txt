@@ -1,0 +1,20 @@
+[general]
+name=Offline Router
+description=Find the shortest driving route between multiple points using a local SpatiaLite routing database. Works fully offline — no internet required.
+version=0.1
+author=GeoBandito
+email=GeoBandito@aol.com
+about=Offline Router is a fully offline QGIS routing plugin. Click waypoints on the map, run a shortest-path query against a local SpatiaLite database, and get turn-by-turn directions with a styled route layer — all without any internet connection.
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+tracker=https://github.com/anonGIS/my-anonymous-plugin/issues
+repository=https://github.com/anonGIS/my-anonymous-plugin
+homepage=https://github.com/anonGIS/my-anonymous-plugin
+tags=routing, offline, shortest path, navigation, turn-by-turn, spatialite, osm
+category=Analysis
+icon=icons/icon.png
+experimental=False
+deprecated=False
+server=False
+changelog=
+    0.1 — Initial release
