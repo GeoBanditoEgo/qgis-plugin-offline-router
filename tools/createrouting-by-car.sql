@@ -1,0 +1,1 @@
+SELECT CreateRouting('by_car_routing_data', 'by_car_routing', 'road_routing', 'node_from', 'node_to', 'geometry', 'cost', 'name', 1, 1, 'oneway_fromto', 'oneway_tofrom', 0);
