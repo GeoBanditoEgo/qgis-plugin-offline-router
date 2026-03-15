@@ -1,0 +1,1 @@
+File can be downloaded from https://www.gaia-gis.it/gaia-sins/windows-bin-amd64/spatialite-tools-5.1.0a-win-amd64.7z
